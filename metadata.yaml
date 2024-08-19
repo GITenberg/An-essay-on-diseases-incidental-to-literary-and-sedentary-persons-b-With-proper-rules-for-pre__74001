@@ -1,6 +1,9 @@
 _repo: An-essay-on-diseases-incidental-to-literary-and-sedentary-persons-b-With-proper-rules-for-pre__74001
 _version: 0.1.0
 alternative_title: De valetudine litteratorum. English
+covers:
+- cover_type: archival
+  image_path: 74001-h/images/cover.jpg
 creator:
   author:
     agent_name: Tissot, S. A. D. (Samuel Auguste David)
@@ -22,6 +25,8 @@ description: A translation of the author's inaugural dissertation, 'De valetudin
   aux gens de lettres et aux personnes sédentaires sur leur santé' was published at
   Paris, 1767, followed by the authorized translation, 'De la santé des gens de lettres',
   at Lausanne, 1768.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74001#An-essay-on-diseases-incidental-to-literary-and-sedentary-persons-b-With-proper-rules-for-pre_
 gutenberg_issued: '2024-07-10'
 gutenberg_type: Text
 identifiers:
